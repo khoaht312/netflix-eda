@@ -15,7 +15,7 @@
 1. Distribution of Movie and TV Show
 2. Which country has most contents on Netflix
 3. How many contents have been released over the years
-4. Distribution of Rating Movie/TV Show
+4. Distribution of Rating in Movie/TV Show
 5. Genre correlation in Movie/TV Show
 6. Average duration of a movie/tv show
 
