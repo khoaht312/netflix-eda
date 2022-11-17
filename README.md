@@ -3,10 +3,14 @@
 
 ## Table of Contents:
 **I. Import libraries and Load the data**
+
 **II. Overview Dataset by Pandas Profiling Report**
+
 1. Notes after Overviewing
 2. Handle missing data and complete dataset
+
 **III. Visualizing**
+
 1. Movie and TV Show Distribution
 2. WordCloud
 3. Top 10 countries with most contents
@@ -14,5 +18,7 @@
 5. Distribution of ratings on Netflix
 6. Genres
 7. Duration
+
 **IV. Conclusion**
+
 **VI. References**
