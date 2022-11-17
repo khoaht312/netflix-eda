@@ -1,6 +1,6 @@
 # [Exploratory Data Analysis and Visualization Using Python](https://htmlpreview.github.io/?https://github.com/tedhwang007/netflix-eda/blob/main/Preview.html)
 > Dataset: Listings of movies and tv shows on Netflix - Kaggle<br>
-> About Dataset:
+> About Dataset: This dataset consists of movies and tv shows available on Netflix as of 2021. The dataset is collected from [Flixable](https://flixable.com/)
 
 ## Table of Contents:
 **I. Import libraries and Load the data**
