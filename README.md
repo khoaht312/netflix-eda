@@ -3,14 +3,14 @@
 > About Dataset: This dataset consists of movies and tv shows available on Netflix as of 2021. The dataset is collected from [Flixable](https://flixable.com/)<br>
 > Programming Language: ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ## Table of Contents:
-:bookmark_tabs: **I. Import libraries and Load the data**
+**I. Import libraries and Load the data** :open_file_folder:
 
-**II. Overview Dataset by Pandas Profiling Report**
+**II. Overview Dataset by Pandas Profiling Report** :mag:
 
 1. Notes after Overviewing (Data Exploration)
 2. Handle missing data and complete dataset (Data Cleaning)
 
-**III. Questions**
+**III. Questions** :question: 
 
 1. Distribution of Movie and TV Show
 2. Which country has most contents on Netflix
@@ -19,8 +19,8 @@
 5. Genre correlation in Movie/TV Show
 6. Average duration of a movie/tv show
 
-**IV. Using Data Visualization to Find Insights in Data**
+**IV. Using Data Visualization to Find Insights in Data** :bar_chart:
 
-**V. Conclusion**
+**V. Conclusion** :pushpin:
 
-**VI. References**
+**VI. References** :bookmark_tabs:
