@@ -3,7 +3,7 @@
 > About Dataset: This dataset consists of movies and tv shows available on Netflix as of 2021. The dataset is collected from [Flixable](https://flixable.com/)<br>
 > Programming Language: ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ## Table of Contents:
-**I. Import libraries and Load the data**
+:bookmark_tabs: **I. Import libraries and Load the data**
 
 **II. Overview Dataset by Pandas Profiling Report**
 
