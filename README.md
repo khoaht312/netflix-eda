@@ -7,19 +7,20 @@
 
 **II. Overview Dataset by Pandas Profiling Report**
 
-1. Notes after Overviewing
-2. Handle missing data and complete dataset
+1. Notes after Overviewing (Data Exploration)
+2. Handle missing data and complete dataset (Data Cleaning)
 
-**III. Visualizing**
+**III. Questions**
 
-1. Movie and TV Show Distribution
-2. WordCloud
-3. Top 10 countries with most contents
-4. How many contents have been added over the years ?
-5. Distribution of ratings on Netflix
-6. Genres
-7. Duration
+1. Distribution of Movie and TV Show
+2. Which country has most contents on Netflix
+3. How many contents have been released over the years
+4. Distribution of Rating Movie/TV Show
+5. Genre correlation in Movie/TV Show
+6. Average duration of a movie/tv show
 
-**IV. Conclusion**
+**IV. Using Data Visualization to Find Insights in Data**
+
+**V. Conclusion**
 
 **VI. References**
