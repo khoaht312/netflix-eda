@@ -1,4 +1,4 @@
-# [Exploratory Data Analysis and Visualization](https://htmlpreview.github.io/?https://github.com/tedhwang007/netflix-eda/blob/main/Preview.html)
+# [Exploratory Data Analysis and Visualization](https://deepnote.com/viewer/github/tedhwang007/netflix-eda/blob/main/EDA-PROJECT.ipynb)
 > Dataset: [Listings of movies and tv shows on Netflix - Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows)<br>
 > About Dataset: This dataset consists of movies and tv shows available on Netflix as of 2021. The dataset is collected from [Flixable](https://flixable.com/)<br>
 > Programming Language: ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
