@@ -32,6 +32,6 @@
 
 **VI. References** :bookmark_tabs:
 
-**[1]** Shivam Bansal, "Netflix Movies and TV Shows".[Online] Available: https://www.kaggle.com/datasets/shivamb/netflix-shows <br>
-**[2]** Josh, "Netflix Data Visualization". [Online] Available: https://www.kaggle.com/code/joshuaswords/netflix-data-visualization <br>
-**[3]** Kashish Rastogi, "Performing EDA of Netflix Dataset with Plotly". [Online] Available: https://www.analyticsvidhya.com/blog/2021/09/performing-eda-of-netflix-dataset-with-plotly/
+**[1]** Shivam Bansal, "Netflix Movies and TV Shows".[Online] Available: [Link](https://www.kaggle.com/datasets/shivamb/netflix-shows) <br>
+**[2]** Josh, "Netflix Data Visualization". [Online] Available: [Link](https://www.kaggle.com/code/joshuaswords/netflix-data-visualization) <br>
+**[3]** Kashish Rastogi, "Performing EDA of Netflix Dataset with Plotly". [Online] Available: [Link](https://www.analyticsvidhya.com/blog/2021/09/performing-eda-of-netflix-dataset-with-plotly/)
