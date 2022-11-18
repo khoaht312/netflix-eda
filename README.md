@@ -23,4 +23,11 @@
 
 **V. Conclusion** :pushpin:
 
+- Movie is the most content type on Netflix
+- The country by the amount of the produces content is the United States
+- The popular streaming platform started gaining traction after 2016. Since then, the amount of content added has been increasing significantly
+- The largest count of Netflix content is made with a “TV-14” rating
+- International Movies/TV Show is a genre that is mostly in Netflix
+- The most popular movie duration on Netflix is 100 mins and the most common TV Show season is 1 season
+
 **VI. References** :bookmark_tabs:
